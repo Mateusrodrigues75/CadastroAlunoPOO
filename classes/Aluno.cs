@@ -9,5 +9,19 @@ namespace CadastroAlunoPOO.classes
         public bool bolsista;
         public float mediaFinal;
         public float valorMensalidade;
+
+        public float VerMediaAluno(){
+            return this.mediaFinal;
+        }
+        public float VerMensalidade(){
+            float valor;
+            if (this.bolsista == true && this.mediaFinal >= 8){
+                valor = this.valorMensalidade * 0.5f; //50% da mensalidade
+            }else
+            {
+                valor = this.valorMensalidade;
+            }
+            return valor;
+        }
     }
 }

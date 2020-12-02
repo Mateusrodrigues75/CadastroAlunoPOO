@@ -1,0 +1,13 @@
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\bin\Debug\netcoreapp3.1\CadastroAlunoPOO.exe
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\bin\Debug\netcoreapp3.1\CadastroAlunoPOO.deps.json
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\bin\Debug\netcoreapp3.1\CadastroAlunoPOO.runtimeconfig.json
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\bin\Debug\netcoreapp3.1\CadastroAlunoPOO.runtimeconfig.dev.json
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\bin\Debug\netcoreapp3.1\CadastroAlunoPOO.dll
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\bin\Debug\netcoreapp3.1\CadastroAlunoPOO.pdb
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\obj\Debug\netcoreapp3.1\CadastroAlunoPOO.csprojAssemblyReference.cache
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\obj\Debug\netcoreapp3.1\CadastroAlunoPOO.AssemblyInfoInputs.cache
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\obj\Debug\netcoreapp3.1\CadastroAlunoPOO.AssemblyInfo.cs
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\obj\Debug\netcoreapp3.1\CadastroAlunoPOO.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\obj\Debug\netcoreapp3.1\CadastroAlunoPOO.dll
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\obj\Debug\netcoreapp3.1\CadastroAlunoPOO.pdb
+C:\Users\mrodr\Documents\C#\CadastroAlunoPOO\obj\Debug\netcoreapp3.1\CadastroAlunoPOO.genruntimeconfig.cache
